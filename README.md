@@ -227,10 +227,10 @@ MIT License - see LICENSE file for details
 ## Author
 
 **Shubham Kadam**
-- Email: kadamshubham4675@gmail.com
+- Email: kadamshubham4518@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shubham-kadam-40327b392
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/kadamshubham4518-cmyk
 
 ## Support
 
-For issues and questions, open an issue on GitHub or email kadamshubham4675@gmail.com
+For issues and questions, open an issue on GitHub or email kadamshubham4518@gmail.com
